@@ -1,0 +1,5 @@
+print('enter i')
+i=int(input())
+print('enter k')
+k=int(input())
+print('number is',i-k-1)

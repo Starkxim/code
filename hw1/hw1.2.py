@@ -1,0 +1,7 @@
+print('enter a')
+a=float(input())
+print('enter b')
+b=float(input())
+print('enter c')
+c=float(input())
+print('answer is',a*b*c)
